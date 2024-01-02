@@ -69,15 +69,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-#Types of Testing 
-by Tester-
-1. Manual testing
-1. Automation testing
-
-by Developer-
-1. Unit testing
-1. Integrated testing
-1. End-to-end testing
-
-- React testing framework [Jest](https://jestjs.io/docs/getting-started) [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
